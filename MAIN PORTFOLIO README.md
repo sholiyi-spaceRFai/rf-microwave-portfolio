@@ -1,9 +1,3 @@
-# Test
-
-This is a test.
-
-[Google](https://www.google.com)
-
 # RF & Microwave Engineering Portfolio  
 **Olusegun Samuel Sholiyi**
 
