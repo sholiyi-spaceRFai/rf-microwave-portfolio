@@ -1,1 +1,61 @@
+# RF & Antenna Engineering Portfolio  
+**Olusegun Samuel Sholiyi**
 
+This repository showcases selected RF and antenna engineering projects with emphasis on metamaterial-based antenna design, EM simulation, and experimental validation.
+
+---
+
+## 🔹 Core Competencies
+- Microstrip Antenna Design (Single, Dual-band, Dual-resonant)
+- Metamaterial Engineering (SRR, EBG, Reflection Phase Control)
+- EM Simulation (CST Studio Suite)
+- RF Performance Metrics: S11, Gain, Radiation Patterns
+- Parametric Optimization & Design Validation
+
+---
+
+## 📡 Featured Projects
+
+### 🔸 Dual-Band Metamaterial Patch Antenna (2.45 GHz & 5 GHz)
+Compact dual-band antenna integrating metamaterial structures for performance enhancement.
+
+→ See project folder: `dual-band-metamaterial-antenna/`
+
+---
+
+### 🔸 Dual-Resonant Antenna (5 GHz & 7.5 GHz)
+Patch antenna backed by a 5×5 metamaterial array for multi-frequency operation.
+
+→ See project folder: `dual-resonant-antenna-5-7ghz/`
+
+---
+
+### 🔸 Metamaterial Unit Cell Design & Parameter Extraction
+Design and EM characterization of unit cells with effective permittivity and permeability extraction.
+
+→ See project folder: `metamaterial-unit-cell/`
+
+---
+
+## 🛠 Tools & Technologies
+- CST Studio Suite 2025  
+- MATLAB (AI-based optimization workflows)  
+- Microstrip Line Feeding Techniques  
+- RF Measurement & Validation Methods  
+
+---
+
+## 📊 Focus Areas
+- Sub-6 GHz wireless systems  
+- Antenna miniaturization  
+- Gain enhancement using engineered materials  
+- Multi-band and wideband RF design  
+
+---
+
+## 📩 Contact
+- Email: sharemust@gmail.com
+- LinkedIn:www.linkedin.com/in/sholiyi-aerospaceai
+- GitHub: https://github.com/sholiyi-spaceRFai/rf-microwave-portfolio
+
+---
