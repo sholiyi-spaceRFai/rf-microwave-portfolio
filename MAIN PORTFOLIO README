@@ -1,59 +1,81 @@
-# RF & Antenna Engineering Portfolio  
+# RF & Microwave Engineering Portfolio  
 **Olusegun Samuel Sholiyi**
 
-This repository showcases selected RF and antenna engineering projects with emphasis on metamaterial-based antenna design, EM simulation, and experimental validation.
+RF Engineer specializing in antenna design, metamaterials, and microwave/RF front-end systems with hands-on experience in EM simulation, fabrication, and measurement validation.
 
-⭐ Highlights:
-- Up to 98% radiation efficiency achieved
-- < 1 dB insertion loss in Ka-band phase shifter
-- 0.5 dB noise figure LNA design
 ---
 
-## 🔹 Core Competencies
-- Microstrip Antenna Design (Single, Dual-band, Dual-resonant)
-- Metamaterial Engineering (SRR, EBG, Reflection Phase Control)
-- EM Simulation (CST Studio Suite)
-- RF Performance Metrics: S11, Gain, Radiation Patterns
-- Parametric Optimization & Design Validation
+## ⭐ Key Highlights
+- Achieved up to **98% radiation efficiency** in metamaterial-backed antenna designs  
+- Designed **Ka-band phase shifter** with **< 1 dB insertion loss** and tunable phase response  
+- Developed **Ku-band LNA** with ~**0.5 dB noise figure** (design) and **22 dB gain**  
+- Strong experience across **simulation → fabrication → measurement correlation**
+
+---
+
+## 🔧 Core Competencies
+- **Antenna Design:** Microstrip, Dual-band, Metamaterial-backed  
+- **Microwave Circuits:** LNA, Phase Shifters  
+- **EM Simulation:** CST Studio Suite, HFSS, ADS  
+- **RF Metrics:** S-Parameters, Gain, Efficiency, Noise Figure  
+- **Design Techniques:** Impedance Matching, Smith Chart, Parametric Optimization  
 
 ---
 
 ## 📡 Featured Projects
 
-### 🔸 Dual-Band Metamaterial Patch Antenna (2.45 GHz & 5 GHz)
-Compact dual-band antenna integrating metamaterial structures for performance enhancement.
+### 🔸 Dual-Band Metamaterial Patch Antenna (2.2 GHz / 5.8 GHz)
+Compact antenna with metamaterial integration for bandwidth and efficiency enhancement.
 
-## 📷 S11 Performance
-[![S11 Plot](./dual-band-mtm-antenna/s11_comparison.png)](./dual-band-mtm-antenna/s11_comparison.png)
+[![Antenna Preview](./dual-band-mtm-antenna/s11_comparison.png)](./dual-band-mtm-antenna)
+
+- Dual-band operation with strong impedance matching  
+- Bandwidth enhancement up to ~870 MHz  
+- Radiation efficiency up to ~98%  
+
+👉 [View Full Project](./dual-band-mtm-antenna)
+
 ---
 
-### 🔸 Dual-Resonant Antenna (5 GHz & 7.5 GHz)
-Patch antenna backed by a 5×5 metamaterial array for multi-frequency operation.
+### 🔸 Micro-Rectangular Ferrite Phase Shifter (Ka-Band)
+Tunable microwave phase shifter for phased-array and beam steering applications.
 
-→ See project folder: `dual-resonant-antenna-5-7ghz/`
+[![Phase Shifter Preview](./microrectangular-phase-shifter/phase_shift_plot.png)](./microrectangular-phase-shifter)
+
+- Tunable phase shift up to ~60°/cm  
+- Return loss < -20 dB  
+- Insertion loss < 1 dB  
+
+👉 [View Full Project](./microrectangular-phase-shifter)
 
 ---
 
-### 🔸 Metamaterial Unit Cell Design & Parameter Extraction
-Design and EM characterization of unit cells with effective permittivity and permeability extraction.
+### 🔸 Ku-Band Low Noise Amplifier (12 GHz)
+Two-stage microstrip LNA for satellite receiver front-end.
 
-→ See project folder: `metamaterial-unit-cell/`
+[![LNA Preview](./ku-band-lna/smith_chart.png)](./ku-band-lna)
+
+- Designed gain: 22 dB | Measured: 15 dB (peak 26 dB)  
+- Noise figure ≈ 0.5 dB (design target)  
+- Unconditionally stable (K > 1)  
+
+👉 [View Full Project](./ku-band-lna)
 
 ---
 
 ## 🛠 Tools & Technologies
-- CST Studio Suite 2025  
-- MATLAB (AI-based optimization workflows)  
-- Microstrip Line Feeding Techniques  
-- RF Measurement & Validation Methods  
+- CST Studio Suite  
+- HFSS (High-Frequency Structure Simulator)  
+- ADS (Advanced Design System)  
+- MATLAB  
 
 ---
 
-## 📊 Focus Areas
-- Sub-6 GHz wireless systems  
-- Antenna miniaturization  
-- Gain enhancement using engineered materials  
-- Multi-band and wideband RF design  
+## 📈 Engineering Focus
+- Sub-6 GHz and Microwave Systems  
+- Antenna Miniaturization & Performance Enhancement  
+- Metamaterial-Based RF Design  
+- RF Front-End System Development  
 
 ---
 
