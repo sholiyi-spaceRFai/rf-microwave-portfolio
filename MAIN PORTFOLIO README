@@ -23,7 +23,8 @@ This repository showcases selected RF and antenna engineering projects with emph
 ### 🔸 Dual-Band Metamaterial Patch Antenna (2.45 GHz & 5 GHz)
 Compact dual-band antenna integrating metamaterial structures for performance enhancement.
 
-→ [![S11 Plot](s11_comparison.png)](s11_comparison.png)
+## 📷 S11 Performance
+[![S11 Plot](s11_comparison.png)](s11_comparison.png)
 
 ---
 
