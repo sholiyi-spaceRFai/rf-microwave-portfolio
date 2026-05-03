@@ -43,10 +43,14 @@ Design and implementation of a two-stage microstrip low-noise amplifier for sate
 ---
 
 ## 📷 Figures: Links coming soon
-- Figure 1 → LNA Block Diagram
-- Figure 2 → Stability Circles
-- Figure 2-4 → Input Matching Smith Chart
-- Figure 3 → Measured Results
+
+![LNA Block Diagram](./LNA_Block_Diagram.png)
+
+![Stability Circles](./Stability_Circles.png)
+
+![Input Matching Smith Chart](./Input_Matching_Smith_Chart.png)
+
+![Simulated Results](./Simulated_Results.png)
 
 ---
 
