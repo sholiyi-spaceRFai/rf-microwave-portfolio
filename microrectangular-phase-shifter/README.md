@@ -42,11 +42,17 @@ Design and simulation of a tunable ferrite-based micro-rectangular coaxial phase
 
 ---
 
-## 📷 Figures: Links to be added soon
-- Figure 1 → Phase Shifter Geometry
-- Figure 6 → S-Parameters
-- Figure 8 → Phase Shift vs Field
-- Figure 9 → Nonreciprocal Performance
+## 📷 Figures
+
+![Phase Shifter Geometry](./Phase_Shifter_Geometry.png)
+
+![Schematic cross section](./Schematic_cross_section.png)
+
+![S-Parameters](./S_Parameters.png)
+
+![Phase Shift vs Field](./Phase_Shift_vs_Field.png)
+
+![Nonreciprocal Performance](./Nonreciprocal_Performance.png)
 
 ---
 
