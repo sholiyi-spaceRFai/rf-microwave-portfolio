@@ -55,7 +55,8 @@ Design, simulation, fabrication, and measurement of a high-efficiency metamateri
 
 ![S11 (Sim vs Measured)](./S11_(Sim_vs_Measured).png)
 
-![Radiation Pattern](./si_pi_schematic.png)
+![Radiation Pattern](./Radiation_Pattern.png)
+
 ![MTM-Enhanced Performance](./si_pi_schematic.png)
 ---
 
