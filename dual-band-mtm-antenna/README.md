@@ -57,7 +57,8 @@ Design, simulation, fabrication, and measurement of a high-efficiency metamateri
 
 ![Radiation Pattern](./Radiation_Pattern.png)
 
-![MTM-Enhanced Performance](./si_pi_schematic.png)
+![MTM-Enhanced Performance](./MTM_Enhanced_Performance.png)
+
 ---
 
 ## 🚀 Applications
