@@ -27,7 +27,6 @@ RF Engineer specializing in antenna design, metamaterials, and microwave/RF fron
 ### 🔸 Dual-Band Metamaterial Patch Antenna (2.2 GHz / 5.8 GHz)
 Compact antenna with metamaterial integration for bandwidth and efficiency enhancement.
 
-[![Antenna Preview](./dual-band-mtm-antenna/s11_comparison.png)](./dual-band-mtm-antenna)
 
 - Dual-band operation with strong impedance matching  
 - Bandwidth enhancement up to ~870 MHz  
@@ -40,7 +39,6 @@ Compact antenna with metamaterial integration for bandwidth and efficiency enhan
 ### 🔸 Micro-Rectangular Ferrite Phase Shifter (Ka-Band)
 Tunable microwave phase shifter for phased-array and beam steering applications.
 
-[![Phase Shifter Preview](./microrectangular-phase-shifter/phase_shift_plot.png)](./microrectangular-phase-shifter)
 
 - Tunable phase shift up to ~60°/cm  
 - Return loss < -20 dB  
@@ -53,7 +51,7 @@ Tunable microwave phase shifter for phased-array and beam steering applications.
 ### 🔸 Ku-Band Low Noise Amplifier (12 GHz)
 Two-stage microstrip LNA for satellite receiver front-end.
 
-[![LNA Preview](./ku-band-lna/smith_chart.png)](./ku-band-lna)
+
 
 - Designed gain: 22 dB | Measured: 15 dB (peak 26 dB)  
 - Noise figure ≈ 0.5 dB (design target)  
