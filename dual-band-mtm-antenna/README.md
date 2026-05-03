@@ -49,9 +49,9 @@ Design, simulation, fabrication, and measurement of a high-efficiency metamateri
 
 ## 📷 Figures:
 
-![Antenna Geometry](./Antenna Geometry.png)
+![Antenna Geometry](./Antenna_Geometry.png)
 
-![Fabricated Prototype](./Fabricated Prototype.png)
+![Fabricated Prototype](./Fabricated_Prototype.png)
 
 ![S11 (Sim vs Measured)](./si_pi_schematic.png)
 ![Radiation Pattern](./si_pi_schematic.png)
