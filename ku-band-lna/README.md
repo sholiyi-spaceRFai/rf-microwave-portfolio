@@ -52,8 +52,6 @@ Design and implementation of a two-stage microstrip low-noise amplifier for sate
 
 ![Simulated Results](./Simulated_Results.png)
 
-
-## Measured results coming soon
 ---
 
 ## 🚀 Applications
