@@ -42,7 +42,7 @@ Design and implementation of a two-stage microstrip low-noise amplifier for sate
 
 ---
 
-## 📷 Figures: Links coming soon
+## 📷 Figures
 
 ![LNA Block Diagram](./LNA_Block_Diagram.png)
 
