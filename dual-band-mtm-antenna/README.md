@@ -21,10 +21,10 @@ Design, simulation, fabrication, and measurement of a high-efficiency metamateri
 ---
 
 ## 🎯 Key Achievements
-- Achieved **dual-band operation on lossy FR-4 substrate**
-- **Radiation efficiency exceeding 98%** at target frequencies :contentReference[oaicite:0]{index=0}
-- Bandwidth improved from **320 MHz → 870 MHz** with metamaterial integration :contentReference[oaicite:1]{index=1}
-- Demonstrated strong agreement between simulation and measurement
+- Achieved dual-band operation on lossy FR-4 substrate  
+- Radiation efficiency exceeding **98%** at target frequencies  
+- Bandwidth improved from **320 MHz to 870 MHz** with metamaterial integration  
+- Demonstrated strong agreement between simulation and measurement  
 
 ---
 
