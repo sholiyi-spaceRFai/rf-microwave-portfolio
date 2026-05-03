@@ -47,14 +47,13 @@ Design, simulation, fabrication, and measurement of a high-efficiency metamateri
 
 ---
 
-## 📷 Figures: links coming soon
-Export from your document:
-- Figure 1 → Antenna Geometry
-- Figure 3 → Fabricated Prototype
-- Figure 5 → S11 (Sim vs Measured)
-- Figure 7 → Radiation Pattern
-- Figure 8 → MTM-Enhanced Performance
+## 📷 Figures:
 
+![Antenna Geometry](./si_pi_schematic.png)
+![Fabricated Prototype](./si_pi_schematic.png)
+![S11 (Sim vs Measured)](./si_pi_schematic.png)
+![Radiation Pattern](./si_pi_schematic.png)
+![MTM-Enhanced Performance](./si_pi_schematic.png)
 ---
 
 ## 🚀 Applications
